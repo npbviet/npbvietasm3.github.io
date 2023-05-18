@@ -1,6 +1,0 @@
-@media only screen and (max-width: 599px) {
-  #scopes .charter-content {
-    display: grid;
-    grid-template-columns: 1fr;
-  }
-}
